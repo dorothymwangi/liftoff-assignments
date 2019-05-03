@@ -7,7 +7,7 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-My project - Positive Vibes (+ve Vibes) - will be an application that helps individuals cultivate a more positive mindset. Negativity is all around us and has a significant impact on one’s mind, stifling individuals from reaching their full potential. Those who cultivate a positive mindset have increased attention, determination, energy and enthusiasm. Research shows that one of the effective ways to program one’s mind to be more positive is to practice gratitude. This application will help individuals shift their mind to be more positive by providing a platform where they can practice gratitude on a daily basis. In addition they will be able to interact with other individuals who have a similar desire, thus creating a positively inclined community.
+My project - Positive Vibes (+ve Vibes) - will be an application that helps individuals cultivate a more positive mindset. Negativity is all around us and has a significant impact on one’s mind, preventing individuals from reaching their full potential. Those who cultivate a positive mindset have increased attention, determination, energy and enthusiasm. Research shows that one of the effective ways to program one’s mind to be more positive is to practice gratitude. This application will help individuals shift their mind to be more positive by providing a platform where they can practice gratitude on a daily basis. In addition they will be able to interact with other individuals who have a similar desire, thus creating a positively inclined community.
 
 I decided on this project based on my desire to help improve my own mindset as well as decrease the negativity around us. This application will be helpful to anyone wishing to cultivate a more positive mindset in an environment that brings together other individuals with the same positive desire.
 
@@ -39,7 +39,7 @@ I decided on this project based on my desire to help improve my own mindset as w
 
 ### Technologies
 •	Java 8.0
-•	Springboot 
+•	Spring boot 
 •	Thymeleaf
 •	Bootstrap
 •	MAMP
