@@ -11,7 +11,20 @@ For this assignment, you'll create some initial plans for your project.
 (Include at least 3 wireframes here, adding images or files to your the repository as necessary. Format them as a bulleted/unordered list with links to the files.)
 
 * Home page
-![Image of Home page](https://balsamiq.cloud/sv2b1j0/pv76kch/r9E5F)
+https://balsamiq.cloud/sv2b1j0/pv76kch/r9E5F 
+
+* Register
+https://balsamiq.cloud/sv2b1j0/pv76kch/rCCBA
+
+* Log In
+https://balsamiq.cloud/sv2b1j0/pv76kch/r2278
+
+* User Profile
+https://balsamiq.cloud/sv2b1j0/pv76kch/r28B4
+
+* Shared Posts
+https://balsamiq.cloud/sv2b1j0/pv76kch/r745E
+
 
 
 ### Project Tracker
