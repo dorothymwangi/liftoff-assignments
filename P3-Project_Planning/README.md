@@ -36,3 +36,4 @@ https://balsamiq.cloud/sv2b1j0/pv76kch/r745E
 ### Project Repo Link
 
 (Include a link to your project on GitHub)
+* +ve Vibes GitHub repo link: https://github.com/wambuidee/Positive-Vibes-Liftoff-Demo-Project
