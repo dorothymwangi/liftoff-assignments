@@ -13,6 +13,6 @@ Provide a link to your GitHub account here.
 Provide a link to your LinkedIn account here.
 
 ### Resume
-[Resume](https://github.com/dorothymwangi/liftoff-assignments)
+[Resume](https://github.com/dorothymwangi/liftoff-assignments/blob/master/Resume.pdf)
 
 > *Your GitHub repository is public* if you do not want to upload your resume to a public facing repository talk with your Mentor about an alternate way to submit this assignment.
