@@ -10,7 +10,7 @@ For this assignment you will need to upload your resume, and provide links to yo
 [Dorothy Mwangi](https://github.com/dorothymwangi)
  
 ### LinkedIn
-Provide a link to your LinkedIn account here.
+[Dorothy Mwangi](https://www.linkedin.com/in/dorothy-mwangi-83bba66/)
 
 ### Resume
 [Resume](https://github.com/dorothymwangi/liftoff-assignments/blob/master/Resume.pdf)
